@@ -11,9 +11,9 @@ public class Resta {
     
     
  
-    public int resta(){
+    public int resta(int num1,int num2){
     
-    
+        System.out.println("La resta es");
         return num1 - num2;
     }
 }
